@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(140, 114, 164); 
+    color: rgb(41, 114, 224);
+    padding: 10px;
+ }
+ 
+ #image {
+ float: left;
+ }
+ 
+ #description {
+     float:right;
+ }
